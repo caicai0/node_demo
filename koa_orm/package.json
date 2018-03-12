@@ -9,7 +9,9 @@
   "author": "liyufeng",
   "license": "ISC",
   "dependencies": {
+    "koa": "^2.5.0",
     "koa-orm": "^2.3.0",
+    "mysql2": "^1.5.2",
     "sequelize": "^4.36.0",
     "squel": "^5.12.0"
   }
