@@ -1,0 +1,16 @@
+{
+  "name": "koa_orm",
+  "version": "1.0.0",
+  "description": "demo",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "liyufeng",
+  "license": "ISC",
+  "dependencies": {
+    "koa-orm": "^2.3.0",
+    "sequelize": "^4.36.0",
+    "squel": "^5.12.0"
+  }
+}
